@@ -1,3 +1,5 @@
+### Inter Mixer Performance Analysis in 3D Printing
+
 This code is designed to evaluate the performance of an inter-mixer using advanced image processing techniques. The overall workflow is divided into two main stages: image preparation and image analysis, each serving a critical role in assessing the quality of material mixing.
 1. Image Preparation
 The first step involves preprocessing the image to ensure accurate analysis. During image acquisition, an unavoidable yellow lighting artifact was introduced, which altered the true appearance of the specimen's color. To correct this, the code applies image enhancement techniques to remove the yellow light, thereby restoring the specimen’s original color profile and ensuring reliable results in the subsequent analysis.
