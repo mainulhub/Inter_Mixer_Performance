@@ -10,3 +10,5 @@
 <i>•	Cluster Analysis:</i> <p align="justify">Uses clustering algorithms (e.g., k-means) to group similar color regions within the image. It determines the optimal number of clusters using methods like the Elbow Method and Davies-Bouldin Index, and visualizes the color distribution within each cluster, providing a detailed view of how uniformly the colors are blended.</p>
 After clustering, the color composition within each cluster is analyzed. This includes calculating the average intensity of red and blue in each group, which helps to understand how dominant or balanced the colors are in different regions of the image.<br/><br/>
 <p align="justify"> By integrating these methods, the code provides a robust, multi-faceted assessment of mixing performance. It allows for clear comparison across different inter-mixer configurations and effectively identifies the best-performing inter-mixer based on objective, quantifiable image characteristics.</p>
+<br/><br/>
+<img src="Code_Flow_Chart.png">
